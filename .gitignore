@@ -1,3 +1,5 @@
 .env
 tmp
 todo-fiber
+.vscode
+.idea
